@@ -1,0 +1,4 @@
+# AndroidServiceFULLStudy
+Service深度学习
+
+Android Service的完整测试学习，主要包括生命周期测试，本地绑定运行Service实现、远程绑定运行Service的Messenger方式与AIDL方式实现 。  所有BOUND SERVICE的示例均实现了Service与客户端的交互功能，即Service可以调用客户端的方法，客户端也可以调用Service的方法。
