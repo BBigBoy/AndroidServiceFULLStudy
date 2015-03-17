@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AIDLTest" />
+            <option value="$PROJECT_DIR$/MessengerTest" />
             <option value="$PROJECT_DIR$/ServiceTest" />
           </set>
         </option>
